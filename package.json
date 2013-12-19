@@ -1,0 +1,14 @@
+{
+	"name" : "Sergii-nodejs",
+	"description": "Test App for Heroku",
+	"version" : "0.1.0",
+	"repository" : {
+		"type" : "git"
+		},
+	"dependencies" : {
+		"twilio" : "*",
+		"formidable" : "*",
+		"request" : "*"
+	}
+
+}
